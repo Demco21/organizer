@@ -1,7 +1,7 @@
-This program will accept a command line argument as follows: organizer <targetDirectory>
+This program will accept a command line argument as follows: organizer targetDirectory
 where the target directory is a directory containing numerous files.
 This program will organize these files into subdirectories: music, movies, shows, documents, pictures, other 
-If <targetDirectory> is not entered, this program will run on the current working directory
+If targetDirectory is not entered, this program will run on the current working directory
    
 movie and show files must have extension .mkv and must be formatted as follows:
 movies: <year-title.mkv> (ex. 2002-The Lord of the Rings: The Two Towers.mkv)
